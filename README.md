@@ -141,11 +141,6 @@ Add your actual test results here after training:
 - Deploy the application on a hosting platform.
 - Experiment with pretrained language models.
 
-## Author
-
-**YOUR NAME**
-
-GitHub: https://github.com/YOUR_USERNAME
 
 ## License
 
